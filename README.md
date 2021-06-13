@@ -6,4 +6,4 @@ This will have all the things needed to take while on trip
 
 Also, a summary of travel destinations and what it is famous for.
 
-This is my travel diary
+This is my personal travel diary
